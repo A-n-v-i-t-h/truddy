@@ -1,0 +1,9 @@
+# Course material - kept local, not for public distribution
+*.pdf
+topg-practice/transcripts/Class *.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
